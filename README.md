@@ -65,15 +65,16 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![Screenshot 2024-03-21 214101](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/884dcb28-cdfd-4465-8b14-5829d4c04be7)
+![Screenshot 2024-03-22 082057](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/dbb665db-047f-4f70-a5a9-e13730b64e25)
+![Screenshot 2024-03-22 082110](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/d9055d98-5380-4f7d-89ad-224f680220ae)
+![Screenshot 2024-03-22 082151](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/db67e7eb-0c07-46ee-a614-1c198321bf81)
+![Screenshot 2024-03-22 082200](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/e37515ca-fd8c-4483-990c-397fbab865f8)
 
-![Screenshot 2024-03-21 214114](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/a3b715aa-2cc9-4977-964e-e47df7def3f7)
 
-![Screenshot 2024-03-21 214136](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/3064715d-cab8-4f7c-9516-fc85503b183e)
 
-![Screenshot 2024-03-21 214150](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/14a708f7-6241-4203-a1a5-f4eca523a2d1)
 
-![Screenshot 2024-03-21 214205](https://github.com/Dhanushmukesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155508176/fddb9a27-61b0-4216-a38f-041d3bcae780)
+
+
 
 
 
